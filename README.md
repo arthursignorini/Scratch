@@ -1,4 +1,4 @@
-# laboratorio-de-iniciacao-a-programacao
+# Trabalho Scratch
 Laboratorio de Iniciação à Programação
 
 JOGO DE FUTEBOL
@@ -16,19 +16,17 @@ O jogo "Jogo de Futebol" foi desenvolvido como parte do projeto final em Scratch
 
 2. Elementos Utilizados:
 
-Movimentos: Usei os blocos de movimento para controlar a movimentação do peixe para cima e para baixo.
-Aparências: Criei diferentes sprites para representar o peixe, troncos, pedras e o cenário do rio.
-Sons: Adicionei sons de água e sons de colisão para tornar o jogo mais imersivo.
-Eventos: Utilizei eventos para detectar colisões entre o peixe e os obstáculos.
-Controle: Os controles do jogo são simples, os jogadores clicam ou pressionam uma tecla para fazer o peixe nadar para cima.
-Variáveis: Utilizei variáveis para controlar a pontuação do jogador e o estado do jogo (ativo ou game over).
-Operadores: Utilizei operadores para calcular a pontuação com base na distância percorrida pelo peixe.
+Movimentos: Usei os blocos de movimento para controlar a movimentação do Hulk para cima, para baixo, para esquerda e para a direita.
+Aparências: Criei diferentes sprites para representar o todos os jogadores.
+Eventos: Utilizei eventos para detectar colisões entre o Hulk e os outros jogadores e entre a bola e os outros jogadores.
+Controle: Os controles do jogo são simples, os jogadores utlizam as teclas A, W, S, D para se movimentar e a tecla Espaço para chutar a bola.
+Variáveis: Utilizei variáveis para controlar a pontuação dos times e o tempo de jogo (máximo de 1 minuto).
 
 3. Motivação:
-Minha principal motivação para criar "Floppy Fish Adventures" foi desenvolver um jogo divertido e desafiador… 
+Minha principal motivação para criar esse jogo foi desenvolver um jogo divertido e que fosse sobre assuntos do meu interesse.
 
 4. Funcionamento do Jogo:
-O jogo começa com o peixe posicionado no centro do rio. Os jogadores clicam ou pressionam uma tecla para fazer o peixe nadar para cima, desviando de troncos e pedras que se aproximam. Se o peixe colidir com um obstáculo, o jogo termina e a pontuação final do jogador é exibida. Os jogadores podem então optar por reiniciar o jogo para tentar alcançar uma pontuação mais alta.
+O jogo começa com o jogador Hulk do Atlético Mineiro no lado esquerdo do campo e com as teclas de A, W, S, D o usuário deve desviar dos joagdores do Real Madrid e usar a tecla espaço para chutar a bola. D
 
 5. Conclusão:
 …
