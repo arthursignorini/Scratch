@@ -29,4 +29,5 @@ Minha principal motivação para criar esse jogo foi desenvolver um jogo diverti
 O jogo começa com o jogador Hulk do Atlético Mineiro no lado esquerdo do campo e com as teclas de A, W, S, D o usuário deve desviar dos joagdores do Real Madrid e usar a tecla espaço para chutar a bola. D
 
 5. Conclusão:
-…
+Desenvolver o jogo "Jogo de Futebol" foi uma experiência empolgante e educativa. Logo, misturando paixão pelo futebol com habilidades em programação, o projeto demonstra não apenas competência técnica, mas também o desejo de criar algo divertido e envolvente para os jogadores. Diante disso, a escolha do ambiente Scratch proporcionou uma plataforma acessível para explorar ideias e mecânicas de jogo. Sendo assim, o resultado final não é apenas um jogo, mas uma manifestação do potencial criativo e técnico do desenvolvedor. Desse modo, há ainda muito espaço para expansão e aprimoramento, prometendo futuras realizações e descobertas emocionantes neste campo em constante evolução.
+
