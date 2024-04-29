@@ -11,6 +11,7 @@ Relatório do Projeto: "JOGO DE FUTEBOL"
 Introdução:
 O jogo "Jogo de Futebol" foi desenvolvido como parte do projeto final em Scratch para demonstrar minhas habilidades em programação e design de jogos. Este relatório descreve o processo de criação do jogo, os elementos utilizados, a motivação por trás das escolhas feitas e como o jogo funciona.
 
+
 <a href="https://github.com/arthursignorini/Scratch/blob/main/Gif%20do%20jogo.mp4">Link do GIF</a>
 
 1. Descrição do Jogo:
